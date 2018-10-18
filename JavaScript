@@ -1,0 +1,3 @@
+#What are anonymous functions in Javascript?
+
+An anonymous function allows a developer to create a function that has no name. In other words, anonymous functions can be used to store a bit of functionality in a variable and pass that piece of functionality around.
